@@ -59,7 +59,7 @@
 
 ## Acknowledgements
 
-This project was inspired by UpGrad IITB Programme as a case study for the Data Science course.
+This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
 ## Contact
 
